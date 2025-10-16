@@ -1,5 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>ai分之一</title><link>https://FZY-5258.github.io</link><description>我是ai分之一，期待探索更大的代码世界</description><copyright>ai分之一</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/236020118?v=4</url><title>avatar</title><link>https://FZY-5258.github.io</link></image><lastBuildDate>Thu, 09 Oct 2025 01:47:46 +0000</lastBuildDate><managingEditor>ai分之一</managingEditor><ttl>60</ttl><webMaster>ai分之一</webMaster><item><title>2025-10-9-welcome-to-my-blog.md</title><link>https://FZY-5258.github.io/post/2025-10-9-welcome-to-my-blog.md.html</link><description>---
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>ai分之一</title><link>https://FZY-5258.github.io</link><description>我是ai分之一，期待探索更大的代码世界</description><copyright>ai分之一</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/236020118?v=4</url><title>avatar</title><link>https://FZY-5258.github.io</link></image><lastBuildDate>Thu, 16 Oct 2025 14:43:05 +0000</lastBuildDate><managingEditor>ai分之一</managingEditor><ttl>60</ttl><webMaster>ai分之一</webMaster><item><title>Markdown的学习</title><link>https://FZY-5258.github.io/post/Markdown-de-xue-xi.html</link><description># 一级标题
+##二级标题
+###三级标题
+
+
+- 无序列表
+1. 有序列表
+2. 有序列表
+
+     *斜体*
+**加粗**
+~~删除~~
+==高亮==
+---
+
+[网站标题]（链接）。</description><guid isPermaLink="true">https://FZY-5258.github.io/post/Markdown-de-xue-xi.html</guid><pubDate>Thu, 16 Oct 2025 14:42:36 +0000</pubDate></item><item><title>2025-10-9-welcome-to-my-blog.md</title><link>https://FZY-5258.github.io/post/2025-10-9-welcome-to-my-blog.md.html</link><description>---
 layout：post
 title：“欢迎来到我的小站：一个程序员的hello world”
 date：2025-10-9 8：55：00+0800
