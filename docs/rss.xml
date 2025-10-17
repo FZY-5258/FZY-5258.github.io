@@ -1,5 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>ai分之一</title><link>https://FZY-5258.github.io</link><description>我是ai分之一，期待探索更大的代码世界</description><copyright>ai分之一</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/236020118?v=4</url><title>avatar</title><link>https://FZY-5258.github.io</link></image><lastBuildDate>Thu, 16 Oct 2025 14:43:05 +0000</lastBuildDate><managingEditor>ai分之一</managingEditor><ttl>60</ttl><webMaster>ai分之一</webMaster><item><title>Markdown的学习</title><link>https://FZY-5258.github.io/post/Markdown-de-xue-xi.html</link><description># 一级标题
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>ai分之一</title><link>https://FZY-5258.github.io</link><description>我是ai分之一，期待探索更大的代码世界</description><copyright>ai分之一</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/236020118?v=4</url><title>avatar</title><link>https://FZY-5258.github.io</link></image><lastBuildDate>Fri, 17 Oct 2025 00:32:43 +0000</lastBuildDate><managingEditor>ai分之一</managingEditor><ttl>60</ttl><webMaster>ai分之一</webMaster><item><title>10.17</title><link>https://FZY-5258.github.io/post/10.17.html</link><description>已学会：
+1. 如何在github中搜索
+2. git的使用
+3. 制作一份简历
+---
+定一个目标：
+30天学会C语言（要求能运行）
+
+[C语言]（https://github.com/FZY-5258/Project）。</description><guid isPermaLink="true">https://FZY-5258.github.io/post/10.17.html</guid><pubDate>Fri, 17 Oct 2025 00:32:14 +0000</pubDate></item><item><title>Markdown的学习</title><link>https://FZY-5258.github.io/post/Markdown-de-xue-xi.html</link><description># 一级标题
 ##二级标题
 ###三级标题
 
