@@ -1,5 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>ai分之一</title><link>https://FZY-5258.github.io</link><description>我是ai分之一，期待探索更大的代码世界</description><copyright>ai分之一</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/236020118?v=4</url><title>avatar</title><link>https://FZY-5258.github.io</link></image><lastBuildDate>Wed, 22 Oct 2025 10:43:54 +0000</lastBuildDate><managingEditor>ai分之一</managingEditor><ttl>60</ttl><webMaster>ai分之一</webMaster><item><title>10.22</title><link>https://FZY-5258.github.io/post/10.22.html</link><description># 新手学计算机的攻略
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>ai分之一</title><link>https://FZY-5258.github.io</link><description>我是ai分之一，期待探索更大的代码世界</description><copyright>ai分之一</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/236020118?v=4</url><title>avatar</title><link>https://FZY-5258.github.io</link></image><lastBuildDate>Mon, 03 Nov 2025 02:00:40 +0000</lastBuildDate><managingEditor>ai分之一</managingEditor><ttl>60</ttl><webMaster>ai分之一</webMaster><item><title>在 Windows 11 系统下安装 Python</title><link>https://FZY-5258.github.io/post/zai-%20Windows%2011%20-xi-tong-xia-an-zhuang-%20Python.html</link><description>==在 Windows 11 系统下安装 Python（“蟒蛇” 通常指 Anaconda 或 Miniconda，这里以 Anaconda 为例）以及 PyTorch（包含 CUDA 和 cuDNN）的详细步骤==
+**一、安装 Anaconda（Python 发行版）**
+1. 下载 Anaconda
+访问官网：[Anaconda 下载页](https://www.anaconda.com/download)
+选择 Windows 版本（64 位，根据系统选择，通常是 64-Bit Graphical Installer）
+建议下载 Python 3.9 及以上版本（兼容性更好）
+2. 安装 Anaconda
+双击安装包，点击 “Next” 直到出现安装选项：
+勾选 “Add Anaconda3 to my PATH environment variable”（关键！否则需手动配置环境变量）
+其他选项默认（安装路径建议默认，或自定义到非系统盘，路径不要有中文 / 空格）
+点击 “Install” 完成安装，最后取消勾选 “Learn more about Anaconda Cloud” 并关闭。</description><guid isPermaLink="true">https://FZY-5258.github.io/post/zai-%20Windows%2011%20-xi-tong-xia-an-zhuang-%20Python.html</guid><pubDate>Mon, 03 Nov 2025 02:00:09 +0000</pubDate></item><item><title>10.22</title><link>https://FZY-5258.github.io/post/10.22.html</link><description># 新手学计算机的攻略
 ## 刷题
      首先肯定要刷题的，大厂面试手撕算法题是不可能缺少的一关，算法题只能靠反复做，所以得靠时间积累，推荐跟着“代码随想录”刷题，把他给出来的题刷个两三遍再去刷力扣hot100，同样刷两三遍，刷到滚瓜烂熟为止，一天一道到两道即可，另外学习时长因人而异，看你能专注多久，不是别人学六个小时你也跟着学六个小时
 
