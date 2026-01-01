@@ -1,5 +1,32 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>ai分之一</title><link>https://FZY-5258.github.io</link><description>我是ai分之一，期待探索更大的代码世界</description><copyright>ai分之一</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/236020118?v=4</url><title>avatar</title><link>https://FZY-5258.github.io</link></image><lastBuildDate>Mon, 03 Nov 2025 02:00:40 +0000</lastBuildDate><managingEditor>ai分之一</managingEditor><ttl>60</ttl><webMaster>ai分之一</webMaster><item><title>在 Windows 11 系统下安装 Python</title><link>https://FZY-5258.github.io/post/zai-%20Windows%2011%20-xi-tong-xia-an-zhuang-%20Python.html</link><description>==在 Windows 11 系统下安装 Python（“蟒蛇” 通常指 Anaconda 或 Miniconda，这里以 Anaconda 为例）以及 PyTorch（包含 CUDA 和 cuDNN）的详细步骤==
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>ai分之一</title><link>https://FZY-5258.github.io</link><description>我是ai分之一，期待探索更大的代码世界</description><copyright>ai分之一</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/236020118?v=4</url><title>avatar</title><link>https://FZY-5258.github.io</link></image><lastBuildDate>Thu, 01 Jan 2026 03:44:12 +0000</lastBuildDate><managingEditor>ai分之一</managingEditor><ttl>60</ttl><webMaster>ai分之一</webMaster><item><title>在Git Bash上的操作流程</title><link>https://FZY-5258.github.io/post/zai-Git%20Bash-shang-de-cao-zuo-liu-cheng.html</link><description># Git Bash推送VS项目到GitHub的操作流程
+## 一、前期准备
+1. 确保已安装Git for Windows，并在GitHub上新建空白仓库（不勾选 README.md / .gitignore ）
+2. 打开VS 2022项目的根文件夹，在空白处右键选择Git Bash Here，打开Git Bash终端
+## 二、Git Bash核心操作步骤
+1. 初始化本地仓库
+*bash*
+*git init  # 将当前文件夹初始化为Git仓库*
+2. 添加文件到暂存区
+*bash*
+*git add .  # '.'表示添加所有文件，也可指定文件如'git add main.c'*
+3. 提交暂存区文件到本地仓库
+*bash*
+*git commit -m '初始化VS 2022项目，包含C语言矩形面积计算代码'  # 引号内为提交说明，需清晰*
+4. 关联GitHub远程仓库
+*bash*
+*git remote add origin https://github.com/你的GitHub用户名/仓库名.git  # 替换为自己的仓库地址*
+5. 推送本地代码到GitHub
+*bash*
+*git push -u origin main  # 'main'为分支名，若默认是master则替换为master*
+## 后续常规操作
+- 拉取远程仓库更新： git pull origin main 
+- 查看仓库状态： git status 
+- 查看提交记录： git log 
+
+
+
+。</description><guid isPermaLink="true">https://FZY-5258.github.io/post/zai-Git%20Bash-shang-de-cao-zuo-liu-cheng.html</guid><pubDate>Thu, 01 Jan 2026 03:43:43 +0000</pubDate></item><item><title>在 Windows 11 系统下安装 Python</title><link>https://FZY-5258.github.io/post/zai-%20Windows%2011%20-xi-tong-xia-an-zhuang-%20Python.html</link><description>==在 Windows 11 系统下安装 Python（“蟒蛇” 通常指 Anaconda 或 Miniconda，这里以 Anaconda 为例）以及 PyTorch（包含 CUDA 和 cuDNN）的详细步骤==
 **一、安装 Anaconda（Python 发行版）**
 1. 下载 Anaconda
 访问官网：[Anaconda 下载页](https://www.anaconda.com/download)
